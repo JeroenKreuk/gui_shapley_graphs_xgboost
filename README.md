@@ -49,6 +49,7 @@ This Python script provides a Graphical User Interface (GUI) for performing vari
 ![image](https://github.com/JeroenKreuk/gui_shapley_graphs_xgboost/assets/85551796/c4c40218-d3fa-44c1-ab4f-2384390b511b)
 ↓Violin plot visualises all of the SHAP values.
 ![image](https://github.com/JeroenKreuk/gui_shapley_graphs_xgboost/assets/85551796/f4fb2e29-e98f-4824-9464-ea0675cc5510)
+
 ↓Layered violin plot visualises all of the SHAP values.
 ![image](https://github.com/JeroenKreuk/gui_shapley_graphs_xgboost/assets/85551796/3cc9fe29-ca7e-4b3a-8964-2286a38101a9)
 ↓Correraltion matrix, how the features are correlated to each other.

@@ -39,21 +39,21 @@ This Python script provides a Graphical User Interface (GUI) for performing vari
    - Check the desired Shapley graph types.
    - Click the "Waterfall," "Force," "Mean," "Beeswarm," "Violin," "Layered Violin," "Correlation Matrix Features," and "Shapley Correlation" checkboxes to generate corresponding SHAP plots.
 
-
+↓Waterfall plot shows a single observation/instance and how each feauture of this single observation has contributed to the model prediction.
 ![image](https://github.com/JeroenKreuk/gui_shapley_graphs_xgboost/assets/85551796/78331b7f-1df5-4107-b7b3-ec785a3f9e64)
-
+↓Force plot is similar to the waterfall plot only displayed differently.
 ![image](https://github.com/JeroenKreuk/gui_shapley_graphs_xgboost/assets/85551796/6ca930f8-d542-4db9-96cb-1ecdb21f1855)
-
+↓Mean SHAP plot visualize the mean SHAP value across all instances.
 ![image](https://github.com/JeroenKreuk/gui_shapley_graphs_xgboost/assets/85551796/fd76aea1-a278-4a2b-b6be-d9a7d4d021cd)
-
+↓Beeswarm visualises all of the SHAP values.
 ![image](https://github.com/JeroenKreuk/gui_shapley_graphs_xgboost/assets/85551796/c4c40218-d3fa-44c1-ab4f-2384390b511b)
-
+↓Violin plot visualises all of the SHAP values.
 ![image](https://github.com/JeroenKreuk/gui_shapley_graphs_xgboost/assets/85551796/f4fb2e29-e98f-4824-9464-ea0675cc5510)
-
+↓Layered violin plot visualises all of the SHAP values.
 ![image](https://github.com/JeroenKreuk/gui_shapley_graphs_xgboost/assets/85551796/3cc9fe29-ca7e-4b3a-8964-2286a38101a9)
-
+↓Correraltion matrix, how the features are correlated to each other.
 ![image](https://github.com/JeroenKreuk/gui_shapley_graphs_xgboost/assets/85551796/73d815df-2d6d-4e01-9179-58009f67e4e1)
-
+↓Shap value correraltion matrix, how the shap values are correlated to each other.
 ![image](https://github.com/JeroenKreuk/gui_shapley_graphs_xgboost/assets/85551796/f7ab740f-4c42-4c5a-9eb4-5e7c27c4f2cd)
 
 ## Dependencies

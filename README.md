@@ -43,7 +43,7 @@ This Python script provides a Graphical User Interface (GUI) for performing vari
 ![image](https://github.com/JeroenKreuk/gui_shapley_graphs_xgboost/assets/85551796/78331b7f-1df5-4107-b7b3-ec785a3f9e64)
 ↓Force plot is similar to the waterfall plot only displayed differently.
 ![image](https://github.com/JeroenKreuk/gui_shapley_graphs_xgboost/assets/85551796/6ca930f8-d542-4db9-96cb-1ecdb21f1855)
-↓Mean SHAP plot visualize the mean SHAP value across all instances.
+↓Mean SHAP plot visualize the absolute mean SHAP value across all instances.
 ![image](https://github.com/JeroenKreuk/gui_shapley_graphs_xgboost/assets/85551796/fd76aea1-a278-4a2b-b6be-d9a7d4d021cd)
 ↓Beeswarm visualises all of the SHAP values.
 ![image](https://github.com/JeroenKreuk/gui_shapley_graphs_xgboost/assets/85551796/c4c40218-d3fa-44c1-ab4f-2384390b511b)
